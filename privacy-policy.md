@@ -1,5 +1,7 @@
 # Chính sách & Điều khoản
-Thông tin chi tiết về chính sách & điều khoản khi sử dụng các dịch vụ có phí và miễn phí tại Lập Trình Không Khó (LTKK). Độc giả vui lòng đọc cẩn thận để sau này không xảy ra những vấn đề không đáng có. Bằng việc sử dụng các thông tin & dịch vụ tại Lập Trình Không Khó, bạn đã đồng ý với các chính sách và điều khoản được nêu dưới đây.
+Thông tin chi tiết về chính sách & điều khoản khi sử dụng các dịch vụ có phí và miễn phí tại Lập Trình Không Khó (LTKK). Độc giả vui lòng đọc cẩn thận để sau này không xảy ra những vấn đề không đáng có. 
+
+Bằng việc sử dụng các thông tin & dịch vụ tại Lập Trình Không Khó, bạn đã đồng ý với các chính sách và điều khoản được nêu dưới đây.
 
 ## Chính sách bảo mật
 
@@ -20,7 +22,9 @@ Với mục đích chia sẻ kiến thức miễn phí, kèm với những dịc
 Hãy là một người có văn hóa, bình luận một cách lịch sự và tôn trọng mọi người. Tất cả những bình luận sẽ được đăng ngay lập tức, nhưng chúng tôi sẽ luôn theo dõi và xóa những bình luận thiếu lịch sự.
 
 ### 2. Bản quyền
-Toàn bộ nội dung của LTKK: bài viết, source code, và hình ảnh minh họa (trừ một số nội dung có trích dẫn & một số hình ảnh trên công cụ tìm kiếm) đều thuộc bản quyền của LTKK. Mọi nguồn tin trích đăng nội dung trên LTKK cần nêu rõ nguồn **Lập Trình Không Khó**, tên tác giả (Nguyễn Văn Hiếu) và đường dẫn đến bài viết gốc. **Các bài viết trích dẫn quá 25% toàn văn bất kỳ một post nào trong blog này là không được phép**, trừ trường hợp có sự đồng ý của tác giả.
+Toàn bộ nội dung của LTKK: bài viết, source code, và hình ảnh minh họa (trừ một số nội dung có trích dẫn & một số hình ảnh trên công cụ tìm kiếm) đều thuộc bản quyền của LTKK. 
+
+Mọi nguồn tin trích đăng nội dung trên LTKK cần nêu rõ nguồn **Lập Trình Không Khó**, tên tác giả (Nguyễn Văn Hiếu) và đường dẫn đến bài viết gốc. **Các bài viết trích dẫn quá 25% toàn văn bất kỳ một post nào trong blog này là không được phép**, trừ trường hợp có sự đồng ý của tác giả.
 
 
 
